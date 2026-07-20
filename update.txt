@@ -1,1 +1,1 @@
-https://github.com/2dust/v2rayNG/releases
+com.v2ray.ang | v2rayNG https://github.com/2dust/v2rayNG/releases | 
