@@ -1,0 +1,2 @@
+https://github.com/2dust/v2rayNG, com.v2ray.ang
+https://github.com/hiddify/hiddify-app, app.hiddify.com
