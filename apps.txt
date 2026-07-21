@@ -1,2 +1,3 @@
 2dust/v2rayNG, com.v2ray.ang
 hiddify/hiddify-app, app.hiddify.com
+Happ-proxy/happ-android, com.happproxy
