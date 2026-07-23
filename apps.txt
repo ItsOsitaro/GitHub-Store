@@ -2,3 +2,4 @@
 hiddify/hiddify-app, app.hiddify.com
 Happ-proxy/happ-android, com.happproxy
 ssalggnikool/Navic, paige.navic
+amir1376/ab-download-manager, com.abdownloadmanager
