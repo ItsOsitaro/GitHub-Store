@@ -4,3 +4,6 @@ Happ-proxy/happ-android, com.happproxy
 ssalggnikool/Navic, paige.navic
 amir1376/ab-download-manager, com.abdownloadmanager
 spotiflacapp/SpotiFLAC-Mobile, com.zarz.spotiflac
+junkfood02/Seal, com.junkfood.seal
+GopeedLab/gopeed, com.gopeed.gopeed
+element-hq/element-x-android, io.element.android.x
