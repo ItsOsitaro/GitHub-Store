@@ -7,3 +7,4 @@ spotiflacapp/SpotiFLAC-Mobile, com.zarz.spotiflac
 junkfood02/Seal, com.junkfood.seal
 GopeedLab/gopeed, com.gopeed.gopeed
 element-hq/element-x-android, io.element.android.x
+home-assistant/android,io.homeassistant.companion.android
