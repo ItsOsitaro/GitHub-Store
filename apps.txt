@@ -1,10 +1,10 @@
-2dust/v2rayNG, com.v2ray.ang, v2RayNG, 
+2dust/v2rayNG, com.v2ray.ang, v2RayNG,
 hiddify/hiddify-app, app.hiddify.com
 Happ-proxy/happ-android, com.happproxy
 ssalggnikool/Navic, paige.navic
 amir1376/ab-download-manager, com.abdownloadmanager
 spotiflacapp/SpotiFLAC-Mobile, com.zarz.spotiflac
 junkfood02/Seal, com.junkfood.seal
-GopeedLab/gopeed, com.gopeed.gopeed
+GopeedLab/gopeed,com.gopeed.gopeed,Gopeed
 element-hq/element-x-android, io.element.android.x
 home-assistant/android,io.homeassistant.companion.android, Home Assistant,
