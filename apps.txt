@@ -1,5 +1,5 @@
 2dust/v2rayNG, com.v2ray.ang, v2RayNG,
-hiddify/hiddify-app, app.hiddify.com
+hiddify/hiddify-app,app.hiddify.com,Hiddify
 Happ-proxy/happ-android, com.happproxy
 ssalggnikool/Navic, paige.navic
 amir1376/ab-download-manager, com.abdownloadmanager
