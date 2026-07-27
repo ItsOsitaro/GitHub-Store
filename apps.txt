@@ -1,6 +1,6 @@
 2dust/v2rayNG, com.v2ray.ang, v2RayNG,
 hiddify/hiddify-app,app.hiddify.com,Hiddify
-Happ-proxy/happ-android, com.happproxy
+Happ-proxy/happ-android,com.happproxy,Happ - Proxy Utility
 ssalggnikool/Navic, paige.navic
 amir1376/ab-download-manager, com.abdownloadmanager
 spotiflacapp/SpotiFLAC-Mobile, com.zarz.spotiflac
