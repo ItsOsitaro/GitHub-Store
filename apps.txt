@@ -2,7 +2,7 @@
 hiddify/hiddify-app,app.hiddify.com,Hiddify
 Happ-proxy/happ-android,com.happproxy,Happ - Proxy Utility
 ssalggnikool/Navic, paige.navic
-amir1376/ab-download-manager, com.abdownloadmanager
+amir1376/ab-download-manager,com.abdownloadmanager,AB Download Manager,https://raw.githubusercontent.com/ItsOsitaro/GitHub-Store/refs/heads/main/images/ab-download-manager.svg
 spotiflacapp/SpotiFLAC-Mobile, com.zarz.spotiflac
 junkfood02/Seal, com.junkfood.seal
 GopeedLab/gopeed,com.gopeed.gopeed,Gopeed
