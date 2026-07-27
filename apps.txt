@@ -6,5 +6,5 @@ amir1376/ab-download-manager,com.abdownloadmanager,AB Download Manager,https://r
 spotiflacapp/SpotiFLAC-Mobile, com.zarz.spotiflac
 junkfood02/Seal, com.junkfood.seal
 GopeedLab/gopeed,com.gopeed.gopeed,Gopeed
-element-hq/element-x-android, io.element.android.x
+element-hq/element-x-android,io.element.android.x,Element X
 home-assistant/android,io.homeassistant.companion.android, Home Assistant,
