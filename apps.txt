@@ -1,5 +1,5 @@
 2dust/v2rayNG,com.v2ray.ang,v2RayNG,https://raw.githubusercontent.com/ItsOsitaro/GitHub-Store/refs/heads/main/images/v2rayng.avif
-hiddify/hiddify-app,app.hiddify.com,Hiddify
+hiddify/hiddify-app,app.hiddify.com,Hiddify,https://raw.githubusercontent.com/ItsOsitaro/GitHub-Store/refs/heads/main/images/hiddify.webp
 Happ-proxy/happ-android,com.happproxy,Happ - Proxy Utility
 ssalggnikool/Navic,paige.navic,Navic,https://raw.githubusercontent.com/ItsOsitaro/GitHub-Store/refs/heads/main/images/navic.webp
 amir1376/ab-download-manager,com.abdownloadmanager,AB Download Manager,https://raw.githubusercontent.com/ItsOsitaro/GitHub-Store/refs/heads/main/images/ab-download-manager.png
